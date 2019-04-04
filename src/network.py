@@ -1,4 +1,4 @@
-from random import *
+from random import random
 
 class IAFNeuron:
 	def __init__(self, r=1):
